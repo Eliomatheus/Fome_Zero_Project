@@ -112,7 +112,7 @@ d. Top piores tipos de culinárias <br>
 Dashboard online, hospedado em Cloud e disponível para acesso em qualquer dispositivo conectado a internet.<br>
 
 O painel pode ser acessado através do link:
-
+(https://projects-fome-zero.streamlit.app/)
 
 # 6. Conclusão
 O objetivo desse projeto é criar um conjunto de gráficos e/ou tabelas que exibem essa métricas da melhor forma possível para o CEO.<br>
